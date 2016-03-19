@@ -1,0 +1,3 @@
+timestamp,phone_orient,time,tracking_id,X_start,y_stop,mid_stroke_pressure,stroke_area_covered,finger_width,finger_orient
+14:34:34:938,0,3663.008122,00000098,518,370,0,0.0,0,00000000
+14:35:31:926,0,3681.189304,000000a2,471,694,0,75.3982236862,4,0000002d

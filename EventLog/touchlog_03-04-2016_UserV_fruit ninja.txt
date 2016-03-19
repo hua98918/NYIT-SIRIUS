@@ -1,0 +1,672 @@
+15:14:34:042
+Portrait
+[    2422.839355] EV_ABS       ABS_MT_TRACKING_ID   0000023f            
+15:14:34:142
+Portrait
+[    2422.839433] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000a            
+15:14:34:149
+Portrait
+[    2422.839448] EV_ABS       ABS_MT_POSITION_X    000001d3            
+15:14:34:155
+Portrait
+[    2422.839462] EV_ABS       ABS_MT_POSITION_Y    000001d3            
+15:14:34:161
+Portrait
+[    2422.839481] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+15:14:34:183
+Portrait
+[    2422.839496] EV_ABS       003c                 ffffffdf            
+15:14:34:204
+Portrait
+[    2422.839668] EV_SYN       SYN_REPORT           00000000            
+15:14:34:212
+Portrait
+[    2422.870753] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:34:220
+Portrait
+[    2422.870759] EV_SYN       SYN_REPORT           00000000            
+15:14:34:226
+Portrait
+[    2429.188904] EV_ABS       ABS_MT_TRACKING_ID   00000240            
+15:14:34:234
+Portrait
+[    2429.188931] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000b            
+15:14:34:246
+Portrait
+[    2429.188946] EV_ABS       ABS_MT_POSITION_X    00000285            
+15:14:34:260
+Portrait
+[    2429.188959] EV_ABS       ABS_MT_POSITION_Y    00000474            
+15:14:34:265
+Portrait
+[    2429.188972] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000f            
+15:14:34:270
+Portrait
+[    2429.188986] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+15:14:34:275
+Portrait
+[    2429.188999] EV_ABS       003c                 00000000            
+15:14:34:280
+Portrait
+[    2429.189124] EV_SYN       SYN_REPORT           00000000            
+15:14:34:287
+Portrait
+[    2429.220589] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000c            
+15:14:34:297
+Portrait
+[    2429.220598] EV_ABS       ABS_MT_POSITION_Y    00000473            
+15:14:34:303
+Portrait
+[    2429.220601] EV_ABS       ABS_MT_TOUCH_MAJOR   00000014            
+15:14:34:309
+Portrait
+[    2429.220605] EV_SYN       SYN_REPORT           00000000            
+15:14:34:313
+Portrait
+[    2429.241983] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000a            
+15:14:34:318
+Portrait
+[    2429.241991] EV_ABS       ABS_MT_POSITION_X    00000284            
+15:14:34:322
+Portrait
+[    2429.241994] EV_ABS       ABS_MT_POSITION_Y    00000472            
+15:14:34:328
+Portrait
+[    2429.241996] EV_ABS       ABS_MT_TOUCH_MAJOR   00000009            
+15:14:34:334
+Portrait
+[    2429.241998] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+15:14:34:342
+Portrait
+[    2429.242000] EV_ABS       003c                 0000005a            
+15:14:34:349
+Portrait
+[    2429.242003] EV_SYN       SYN_REPORT           00000000            
+15:14:34:355
+Portrait
+[    2429.253003] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000f            
+15:14:34:364
+Portrait
+[    2429.253008] EV_ABS       ABS_MT_POSITION_X    00000283            
+15:14:34:370
+Portrait
+[    2429.253011] EV_ABS       ABS_MT_POSITION_Y    00000471            
+15:14:34:381
+Portrait
+[    2429.253013] EV_ABS       ABS_MT_TOUCH_MAJOR   00000017            
+15:14:34:385
+Portrait
+[    2429.253015] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+15:14:34:392
+Portrait
+[    2429.253018] EV_ABS       003c                 00000004            
+15:14:34:396
+Portrait
+[    2429.253020] EV_SYN       SYN_REPORT           00000000            
+15:14:34:403
+Portrait
+[    2429.263295] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:34:411
+Portrait
+[    2429.263300] EV_SYN       SYN_REPORT           00000000            
+15:14:34:418
+Portrait
+[    2430.232853] EV_ABS       ABS_MT_TRACKING_ID   00000241            
+15:14:34:423
+Portrait
+[    2430.232885] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000b            
+15:14:34:428
+Portrait
+[    2430.232900] EV_ABS       ABS_MT_POSITION_X    000001b4            
+15:14:34:433
+Portrait
+[    2430.232913] EV_ABS       ABS_MT_POSITION_Y    0000040d            
+15:14:34:440
+Portrait
+[    2430.232928] EV_ABS       ABS_MT_TOUCH_MAJOR   00000009            
+15:14:34:448
+Portrait
+[    2430.232939] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+15:14:34:463
+Portrait
+[    2430.232952] EV_ABS       003c                 ffffffa6            
+15:14:34:468
+Portrait
+[    2430.233126] EV_SYN       SYN_REPORT           00000000            
+15:14:34:472
+Portrait
+[    2430.253202] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000d            
+15:14:34:481
+Portrait
+[    2430.253207] EV_ABS       ABS_MT_POSITION_X    000001af            
+15:14:34:485
+Portrait
+[    2430.253210] EV_ABS       ABS_MT_POSITION_Y    0000040e            
+15:14:34:492
+Portrait
+[    2430.253212] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000e            
+15:14:34:499
+Portrait
+[    2430.253214] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+15:14:34:503
+Portrait
+[    2430.253216] EV_ABS       003c                 ffffffe2            
+15:14:34:510
+Portrait
+[    2430.253219] EV_SYN       SYN_REPORT           00000000            
+15:14:34:516
+Portrait
+[    2430.263762] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:34:520
+Portrait
+[    2430.263767] EV_SYN       SYN_REPORT           00000000            
+15:14:34:534
+Portrait
+[    2430.350294] EV_ABS       ABS_MT_TRACKING_ID   00000242            
+15:14:34:547
+Portrait
+[    2430.350300] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000c            
+15:14:34:552
+Portrait
+[    2430.350303] EV_ABS       ABS_MT_POSITION_X    00000145            
+15:14:34:560
+Portrait
+[    2430.350305] EV_ABS       ABS_MT_POSITION_Y    000003ea            
+15:14:34:564
+Portrait
+[    2430.350307] EV_ABS       ABS_MT_TOUCH_MAJOR   00000011            
+15:14:34:568
+Portrait
+[    2430.350310] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+15:14:34:575
+Portrait
+[    2430.350312] EV_ABS       003c                 ffffffaf            
+15:14:34:582
+Portrait
+[    2430.350353] EV_SYN       SYN_REPORT           00000000            
+15:14:34:588
+Portrait
+[    2430.371316] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000d            
+15:14:34:595
+Portrait
+[    2430.371322] EV_ABS       ABS_MT_POSITION_X    00000138            
+15:14:34:601
+Portrait
+[    2430.371324] EV_ABS       ABS_MT_POSITION_Y    000003e5            
+15:14:34:606
+Portrait
+[    2430.371327] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+15:14:34:612
+Portrait
+[    2430.371329] EV_ABS       003c                 0000004e            
+15:14:34:619
+Portrait
+[    2430.371332] EV_SYN       SYN_REPORT           00000000            
+15:14:34:626
+Portrait
+[    2430.382169] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000b            
+15:14:34:630
+Portrait
+[    2430.382175] EV_ABS       ABS_MT_POSITION_X    0000012b            
+15:14:34:635
+Portrait
+[    2430.382178] EV_ABS       ABS_MT_POSITION_Y    000003df            
+15:14:34:639
+Portrait
+[    2430.382181] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000f            
+15:14:34:646
+Portrait
+[    2430.382183] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+15:14:34:666
+Portrait
+[    2430.382186] EV_ABS       003c                 0000005a            
+15:14:34:671
+Portrait
+[    2430.382189] EV_SYN       SYN_REPORT           00000000            
+15:14:34:677
+Portrait
+[    2430.393084] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000d            
+15:14:34:681
+Portrait
+[    2430.393091] EV_ABS       ABS_MT_POSITION_X    00000117            
+15:14:34:686
+Portrait
+[    2430.393094] EV_ABS       ABS_MT_POSITION_Y    000003d8            
+15:14:34:695
+Portrait
+[    2430.393096] EV_ABS       ABS_MT_TOUCH_MAJOR   00000011            
+15:14:34:710
+Portrait
+[    2430.393098] EV_ABS       ABS_MT_TOUCH_MINOR   00000008            
+15:14:34:715
+Portrait
+[    2430.393102] EV_SYN       SYN_REPORT           00000000            
+15:14:34:720
+Portrait
+[    2430.404016] EV_ABS       ABS_MT_WIDTH_MAJOR   00000009            
+15:14:34:724
+Portrait
+[    2430.404023] EV_ABS       ABS_MT_POSITION_X    000000fc            
+15:14:34:727
+Portrait
+[    2430.404025] EV_ABS       ABS_MT_POSITION_Y    000003cf            
+15:14:34:736
+Portrait
+[    2430.404027] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000d            
+15:14:34:746
+Portrait
+[    2430.404030] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+15:14:34:751
+Portrait
+[    2430.404034] EV_SYN       SYN_REPORT           00000000            
+15:14:34:758
+Portrait
+[    2430.415208] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000a            
+15:14:34:762
+Portrait
+[    2430.415214] EV_ABS       ABS_MT_POSITION_X    000000d9            
+15:14:34:766
+Portrait
+[    2430.415216] EV_ABS       ABS_MT_POSITION_Y    000003c4            
+15:14:34:771
+Portrait
+[    2430.415220] EV_ABS       ABS_MT_TOUCH_MAJOR   00000011            
+15:14:34:778
+Portrait
+[    2430.415222] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+15:14:34:783
+Portrait
+[    2430.415226] EV_SYN       SYN_REPORT           00000000            
+15:14:34:788
+Portrait
+[    2430.425720] EV_ABS       ABS_MT_POSITION_X    000000b9            
+15:14:34:795
+Portrait
+[    2430.425727] EV_ABS       ABS_MT_POSITION_Y    000003bc            
+15:14:34:800
+Portrait
+[    2430.425730] EV_ABS       ABS_MT_TOUCH_MAJOR   00000010            
+15:14:34:809
+Portrait
+[    2430.425733] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+15:14:34:816
+Portrait
+[    2430.425736] EV_ABS       003c                 ffffffa6            
+15:14:34:829
+Portrait
+[    2430.425739] EV_SYN       SYN_REPORT           00000000            
+15:14:34:835
+Portrait
+[    2430.436441] EV_ABS       ABS_MT_WIDTH_MAJOR   00000009            
+15:14:34:840
+Portrait
+[    2430.436447] EV_ABS       ABS_MT_POSITION_X    0000009f            
+15:14:34:848
+Portrait
+[    2430.436450] EV_ABS       ABS_MT_POSITION_Y    000003b6            
+15:14:34:853
+Portrait
+[    2430.436452] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000f            
+15:14:34:863
+Portrait
+[    2430.436454] EV_ABS       ABS_MT_TOUCH_MINOR   00000007            
+15:14:34:872
+Portrait
+[    2430.436457] EV_ABS       003c                 0000005a            
+15:14:34:881
+Portrait
+[    2430.436460] EV_SYN       SYN_REPORT           00000000            
+15:14:34:889
+Portrait
+[    2430.447147] EV_ABS       ABS_MT_WIDTH_MAJOR   00000007            
+15:14:34:894
+Portrait
+[    2430.447155] EV_ABS       ABS_MT_POSITION_X    0000008b            
+15:14:34:901
+Portrait
+[    2430.447158] EV_ABS       ABS_MT_POSITION_Y    000003af            
+15:14:34:905
+Portrait
+[    2430.447161] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000c            
+15:14:34:910
+Portrait
+[    2430.447163] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+15:14:34:914
+Portrait
+[    2430.447166] EV_ABS       003c                 0000004d            
+15:14:39:805
+Portrait
+[    2430.447169] EV_SYN       SYN_REPORT           00000000            
+15:14:39:818
+Portrait
+[    2430.457974] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000e            
+15:14:39:825
+Portrait
+[    2430.457982] EV_ABS       ABS_MT_POSITION_X    00000079            
+15:14:39:839
+Portrait
+[    2430.457984] EV_ABS       ABS_MT_POSITION_Y    000003a9            
+15:14:39:846
+Portrait
+[    2430.457986] EV_ABS       ABS_MT_TOUCH_MAJOR   00000016            
+15:14:39:851
+Portrait
+[    2430.457990] EV_ABS       003c                 0000005a            
+15:14:39:857
+Portrait
+[    2430.457993] EV_SYN       SYN_REPORT           00000000            
+15:14:39:863
+Portrait
+[    2430.468981] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:39:871
+Portrait
+[    2430.468987] EV_SYN       SYN_REPORT           00000000            
+15:14:39:885
+Portrait
+[    2432.014706] EV_ABS       ABS_MT_TRACKING_ID   00000243            
+15:14:39:892
+Portrait
+[    2432.014712] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000a            
+15:14:39:900
+Portrait
+[    2432.014715] EV_ABS       ABS_MT_POSITION_X    00000228            
+15:14:39:908
+Portrait
+[    2432.014718] EV_ABS       ABS_MT_POSITION_Y    000004b3            
+15:14:39:915
+Portrait
+[    2432.014721] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000e            
+15:14:39:925
+Portrait
+[    2432.014723] EV_ABS       ABS_MT_TOUCH_MINOR   0000000c            
+15:14:39:942
+Portrait
+[    2432.014726] EV_ABS       003c                 00000036            
+15:14:39:951
+Portrait
+[    2432.014775] EV_SYN       SYN_REPORT           00000000            
+15:14:39:959
+Portrait
+[    2432.024998] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000b            
+15:14:39:965
+Portrait
+[    2432.025039] EV_ABS       ABS_MT_POSITION_X    00000227            
+15:14:39:971
+Portrait
+[    2432.025043] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000f            
+15:14:39:983
+Portrait
+[    2432.025046] EV_ABS       ABS_MT_TOUCH_MINOR   0000000d            
+15:14:40:008
+Portrait
+[    2432.025048] EV_ABS       003c                 00000034            
+15:14:40:014
+Portrait
+[    2432.025052] EV_SYN       SYN_REPORT           00000000            
+15:14:40:019
+Portrait
+[    2432.035847] EV_ABS       ABS_MT_POSITION_X    00000226            
+15:14:40:023
+Portrait
+[    2432.035855] EV_ABS       003c                 0000002d            
+15:14:40:028
+Portrait
+[    2432.035858] EV_SYN       SYN_REPORT           00000000            
+15:14:40:035
+Portrait
+[    2432.046720] EV_ABS       ABS_MT_POSITION_X    00000225            
+15:14:40:041
+Portrait
+[    2432.046731] EV_ABS       ABS_MT_TOUCH_MINOR   0000000e            
+15:14:40:054
+Portrait
+[    2432.046734] EV_ABS       003c                 00000024            
+15:14:40:061
+Portrait
+[    2432.046737] EV_SYN       SYN_REPORT           00000000            
+15:14:40:066
+Portrait
+[    2432.057729] EV_ABS       ABS_MT_POSITION_X    00000224            
+15:14:40:071
+Portrait
+[    2432.057742] EV_ABS       ABS_MT_TOUCH_MAJOR   00000010            
+15:14:40:076
+Portrait
+[    2432.057746] EV_ABS       003c                 00000025            
+15:14:40:080
+Portrait
+[    2432.057749] EV_SYN       SYN_REPORT           00000000            
+15:14:40:084
+Portrait
+[    2432.068486] EV_ABS       ABS_MT_POSITION_X    00000223            
+15:14:40:090
+Portrait
+[    2432.068495] EV_SYN       SYN_REPORT           00000000            
+15:14:40:097
+Portrait
+[    2432.100928] EV_ABS       ABS_MT_POSITION_X    00000224            
+15:14:40:102
+Portrait
+[    2432.100936] EV_ABS       ABS_MT_POSITION_Y    000004b2            
+15:14:40:107
+Portrait
+[    2432.100938] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000d            
+15:14:40:114
+Portrait
+[    2432.100941] EV_ABS       ABS_MT_TOUCH_MINOR   00000007            
+15:14:40:119
+Portrait
+[    2432.100944] EV_ABS       003c                 fffffff1            
+15:14:40:123
+Portrait
+[    2432.100948] EV_SYN       SYN_REPORT           00000000            
+15:14:40:129
+Portrait
+[    2432.111755] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000c            
+15:14:40:134
+Portrait
+[    2432.111766] EV_ABS       ABS_MT_POSITION_X    00000225            
+15:14:40:139
+Portrait
+[    2432.111769] EV_ABS       ABS_MT_POSITION_Y    000004b1            
+15:14:40:149
+Portrait
+[    2432.111772] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000e            
+15:14:40:163
+Portrait
+[    2432.111776] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+15:14:40:168
+Portrait
+[    2432.111780] EV_ABS       003c                 ffffffee            
+15:14:40:180
+Portrait
+[    2432.111786] EV_SYN       SYN_REPORT           00000000            
+15:14:40:185
+Portrait
+[    2432.122711] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:40:190
+Portrait
+[    2432.122719] EV_SYN       SYN_REPORT           00000000            
+15:14:40:215
+Portrait
+[    2436.131189] EV_ABS       ABS_MT_TRACKING_ID   00000244            
+15:14:40:223
+Portrait
+[    2436.131198] EV_ABS       ABS_MT_WIDTH_MAJOR   00000009            
+15:14:40:231
+Portrait
+[    2436.131201] EV_ABS       ABS_MT_POSITION_X    00000220            
+15:14:40:236
+Portrait
+[    2436.131205] EV_ABS       ABS_MT_POSITION_Y    0000033d            
+15:14:40:247
+Portrait
+[    2436.131208] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000c            
+15:14:43:077
+Portrait
+[    2436.131211] EV_ABS       ABS_MT_TOUCH_MINOR   00000008            
+15:14:43:084
+Portrait
+[    2436.131214] EV_ABS       003c                 00000048            
+15:14:43:089
+Portrait
+[    2436.131281] EV_SYN       SYN_REPORT           00000000            
+15:14:43:094
+Portrait
+[    2436.173821] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000a            
+15:14:43:100
+Portrait
+[    2436.173827] EV_ABS       ABS_MT_POSITION_X    00000222            
+15:14:43:104
+Portrait
+[    2436.173831] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000e            
+15:14:43:110
+Portrait
+[    2436.173835] EV_ABS       003c                 00000015            
+15:14:43:116
+Portrait
+[    2436.173838] EV_SYN       SYN_REPORT           00000000            
+15:14:43:121
+Portrait
+[    2436.184736] EV_ABS       ABS_MT_WIDTH_MAJOR   00000008            
+15:14:43:126
+Portrait
+[    2436.184742] EV_ABS       ABS_MT_POSITION_X    00000225            
+15:14:43:131
+Portrait
+[    2436.184745] EV_ABS       ABS_MT_POSITION_Y    0000033b            
+15:14:43:138
+Portrait
+[    2436.184748] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000d            
+15:14:43:143
+Portrait
+[    2436.184750] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
+15:14:43:151
+Portrait
+[    2436.184753] EV_ABS       003c                 00000014            
+15:14:43:156
+Portrait
+[    2436.184756] EV_SYN       SYN_REPORT           00000000            
+15:14:43:160
+Portrait
+[    2436.195567] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000e            
+15:14:43:165
+Portrait
+[    2436.195573] EV_ABS       ABS_MT_POSITION_X    00000229            
+15:14:43:171
+Portrait
+[    2436.195576] EV_ABS       ABS_MT_POSITION_Y    00000337            
+15:14:43:176
+Portrait
+[    2436.195579] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000b            
+15:14:43:187
+Portrait
+[    2436.195582] EV_ABS       003c                 00000000            
+15:14:43:190
+Portrait
+[    2436.195585] EV_SYN       SYN_REPORT           00000000            
+15:14:43:197
+Portrait
+[    2436.206001] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:43:201
+Portrait
+[    2436.206008] EV_SYN       SYN_REPORT           00000000            
+15:14:43:206
+Portrait
+[    2438.122700] EV_ABS       ABS_MT_TRACKING_ID   00000245            
+15:14:43:213
+Portrait
+[    2438.122730] EV_ABS       ABS_MT_WIDTH_MAJOR   00000009            
+15:14:43:223
+Portrait
+[    2438.122744] EV_ABS       ABS_MT_POSITION_X    0000028c            
+15:14:43:229
+Portrait
+[    2438.122757] EV_ABS       ABS_MT_POSITION_Y    0000049b            
+15:14:43:233
+Portrait
+[    2438.122771] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000a            
+15:14:43:237
+Portrait
+[    2438.122789] EV_ABS       003c                 0000003c            
+15:14:43:240
+Portrait
+[    2438.122940] EV_SYN       SYN_REPORT           00000000            
+15:14:43:246
+Portrait
+[    2438.143594] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000a            
+15:14:43:250
+Portrait
+[    2438.143601] EV_ABS       ABS_MT_POSITION_X    0000028b            
+15:14:43:254
+Portrait
+[    2438.143605] EV_ABS       ABS_MT_TOUCH_MAJOR   0000000b            
+15:14:43:257
+Portrait
+[    2438.143608] EV_ABS       ABS_MT_TOUCH_MINOR   0000000a            
+15:14:43:263
+Portrait
+[    2438.143612] EV_SYN       SYN_REPORT           00000000            
+15:14:43:267
+Portrait
+[    2438.197294] EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+15:14:43:276
+Portrait
+[    2438.197300] EV_SYN       SYN_REPORT           00000000            
+15:14:43:286
+Portrait
+[    2439.374438] EV_ABS       ABS_MT_TRACKING_ID   00000246            
+15:14:43:290
+Portrait
+[    2439.374470] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000f            
+15:14:43:295
+Portrait
+[    2439.374484] EV_ABS       ABS_MT_POSITION_X    00000190            
+15:14:43:300
+Portrait
+[    2439.374498] EV_ABS       ABS_MT_POSITION_Y    00000403            
+15:14:43:303
+Portrait
+[    2439.374512] EV_ABS       ABS_MT_TOUCH_MAJOR   00000016            
+15:14:43:311
+Portrait
+[    2439.374526] EV_ABS       ABS_MT_TOUCH_MINOR   0000000f            
+15:14:43:321
+Portrait
+[    2439.374539] EV_ABS       003c                 00000007            
+15:14:43:326
+Portrait
+[    2439.374697] EV_SYN       SYN_REPORT           00000000            
+15:14:43:331
+Portrait
+[    2439.395047] EV_ABS       ABS_MT_WIDTH_MAJOR   0000000d            
+15:14:43:335
+Portrait
+[    2439.395053] EV_ABS       ABS_MT_POSITION_X    00000183            
+15:14:43:339
+Portrait
+[    2439.395055] EV_ABS       ABS_MT_POSITION_Y    000003ff            
+15:14:43:346
+Portrait
+[    2439.395057] EV_ABS       ABS_MT_TOUCH_MAJOR   00000012            
+15:14:43:355
+Portrait
+[    2439.395060] EV_ABS       003c                 0000004e            
+15:14:43:360
+Portrait
+[    2439.395063] EV_SYN       SYN_REPORT           00000000            
+15:14:43:365
+Portrait
+[    2439.405844] EV_ABS       ABS_MT_POSITION_X    00000170            
+15:14:43:369
+Portrait
+[    2439.405848] EV_ABS       ABS_MT_POSITION_Y    000003f8            
+15:14:43:373
+Portrait
+[    2439.405850] EV_ABS       ABS_MT_TOUCH_MAJOR   00000011            
+15:14:43:377
+Portrait
+[    2439.405853] EV_ABS       ABS_MT_TOUCH_MINOR   0000000b            
+15:14:43:382
+Portrait
+[    2439.405855] EV_ABS       003c                 ffffffa6            
