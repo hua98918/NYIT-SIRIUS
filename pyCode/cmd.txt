@@ -1,83 +1,132 @@
+cd C:\Users\zhang\AppData\Local\Programs\Python\Python35>
+C:\Python27\Lib\site-packages\PyQt4
+.\python
+
 ----------------User1-----------------------------------
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user1_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user1\user1_angrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user1_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user1\user1_angrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user1\user1_angrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user1\user1_DotAngrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user1\user1_LineAngrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user1\user1_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user1\user1_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user1\user1_LineAngrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user1_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user1\user1_flowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user1_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user1\user1_flowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user1\user1_flowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user1\user1_Dotflowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user1\user1_Lineflowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user1\user1_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user1\user1_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user1\user1_Lineflowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user1_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user1\user1_fruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user1_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user1\user1_fruitNinja.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user1\user1_fruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user1\user1_DotFruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user1\user1_LineFruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user1\user1_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user1\user1_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user1\user1_LineFruitNinja.csv"
 
 
 
 ---------------------------User2---------------------------------------------
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user2_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user2\user2_angrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user2_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user2\user2_angrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user2\user2_angrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user2\user2_DotAngrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user2\user2_LineAngrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user2\user2_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user2\user2_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user2\user2_LineAngrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user2_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user2\user2_flowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user2_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user2\user2_flowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user2\user2_flowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user2\user2_Dotflowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user2\user2_Lineflowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user2\user2_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user2\user2_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user2\user2_Lineflowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user2_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user2\user2_fruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user2_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user2\user2_fruitNinja.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user2\user2_fruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user2\user2_DotFruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user2\user2_LineFruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user2\user2_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user2\user2_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user2\user2_LineFruitNinja.csv"
 
 
 ---------------------------User3---------------------------------------------
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user3_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user3\user3_angrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user3_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user3\user3_angrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user3\user3_angrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user3\user3_DotAngrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user3\user3_LineAngrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user3\user3_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user3\user3_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user3\user3_LineAngrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user3_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user3\user3_flowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user3_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user3\user3_flowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user3\user3_flowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user3\user3_Dotflowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user3\user3_Lineflowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user3\user3_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user3\user3_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user3\user3_Lineflowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user3_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user3\user3_fruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-15-2016_user3_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user3\user3_fruitNinja.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user3\user3_fruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user3\user3_DotFruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user3\user3_LineFruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user3\user3_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user3\user3_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user3\user3_LineFruitNinja.csv"
 
 
 
 ---------------------User4---------------------------------------
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-16-2016_user4_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user4\user4_angrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-16-2016_user4_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user4\user4_angrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user4\user4_angrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user4\user4_DotAngrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user4\user4_LineAngrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user4\user4_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user4\user4_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user4\user4_LineAngrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-16-2016_user4_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user4\user4_flowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-16-2016_user4_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user4\user4_flowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user4\user4_flowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user4\user4_Dotflowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user4\user4_Lineflowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user4\user4_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user4\user4_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user4\user4_Lineflowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-16-2016_user4_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user4\user4_fruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-16-2016_user4_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user4\user4_fruitNinja.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user4\user4_fruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user4\user4_DotFruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user4\user4_LineFruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user4\user4_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user4\user4_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user4\user4_LineFruitNinja.csv"
 
 
 ---------------------User5---------------------------------------
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user5_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\User5\user5_angrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user5_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\User5\user5_angrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\User5\user5_angrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\User5\user5_DotAngrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\User5\user5_LineAngrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\User5\user5_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\User5\user5_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\User5\user5_LineAngrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user5_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\User5\user5_flowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user5_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\User5\user5_flowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\User5\user5_flowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\User5\user5_Dotflowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\User5\user5_Lineflowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\User5\user5_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\User5\user5_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\User5\user5_Lineflowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user5_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\User5\user5_fruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user5_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\User5\user5_fruitNinja.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\User5\user5_fruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\User5\user5_DotFruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\User5\user5_LineFruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\User5\user5_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\User5\user5_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\User5\user5_LineFruitNinja.csv"
 
 --------------------User6----------------------------------
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user6_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user6\user6_angrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user6_angry birds.txt" "C:\NYIT-SIRIUS\DataFeature\user6\user6_angrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user6\user6_angrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user6\user6_DotAngrybirds.cvs" "C:\NYIT-SIRIUS\DataFeature\user6\user6_LineAngrybirds.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user6\user6_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user6\user6_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\user6\user6_LineAngrybirds.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user6_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user6\user6_flowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user6_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\user6\user6_flowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user6\user6_flowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user6\user6_Dotflowfree.cvs" "C:\NYIT-SIRIUS\DataFeature\user6\user6_Lineflowfree.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user6\user6_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user6\user6_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\user6\user6_Lineflowfree.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user6_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user6\user6_fruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-18-2016_user6_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\user6\user6_fruitNinja.csv"
 
-python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user6\user6_fruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user6\user6_DotFruitNinja.cvs" "C:\NYIT-SIRIUS\DataFeature\user6\user6_LineFruitNinja.cvs"
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\user6\user6_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user6\user6_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\user6\user6_LineFruitNinja.csv"
+
+
+--------------------UserV----------------------------------
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-04-2016_UserV_angry bird.txt" "C:\NYIT-SIRIUS\DataFeature\userV\userV_angrybirds.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userV\userV_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\userV\userV_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\userV\userV_LineAngrybirds.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-04-2016_userV_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\userV\userV_flowfree.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userV\userV_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\userV\userV_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\userV\userV_Lineflowfree.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-04-2016_userV_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\userV\userV_fruitNinja.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userV\userV_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\userV\userV_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\userV\userV_LineFruitNinja.csv"
+
+
+
+--------------------UserP----------------------------------
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-05-2016_userP_angry bird.txt" "C:\NYIT-SIRIUS\DataFeature\userP\userP_angrybirds.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userP\userP_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\userP\userP_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\userP\userP_LineAngrybirds.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-05-2016_userP_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\userP\userP_flowfree.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userP\userP_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\userP\userP_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\userP\userP_Lineflowfree.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-05-2016_userP_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\userP\userP_fruitNinja.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userP\userP_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\userP\userP_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\userP\userP_LineFruitNinja.csv"
+
+
+
+
+--------------------UserT----------------------------------
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-05-2016_userT_angry bird.txt" "C:\NYIT-SIRIUS\DataFeature\userT\userT_angrybirds.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userT\userT_angrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\userT\userT_DotAngrybirds.csv" "C:\NYIT-SIRIUS\DataFeature\userT\userT_LineAngrybirds.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-05-2016_userT_flow free.txt" "C:\NYIT-SIRIUS\DataFeature\userT\userT_flowfree.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userT\userT_flowfree.csv" "C:\NYIT-SIRIUS\DataFeature\userT\userT_Dotflowfree.csv" "C:\NYIT-SIRIUS\DataFeature\userT\userT_Lineflowfree.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\transferToFineData.py "C:\NYIT-SIRIUS\EventLog\touchlog_03-05-2016_userT_fruit ninja.txt" "C:\NYIT-SIRIUS\DataFeature\userT\userT_fruitNinja.csv"
+
+python C:\Users\zhang\Dropbox\Dataset\ProcessData\extractFeature.py "C:\NYIT-SIRIUS\DataFeature\userT\userT_fruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\userT\userT_DotFruitNinja.csv" "C:\NYIT-SIRIUS\DataFeature\userT\userT_LineFruitNinja.csv"

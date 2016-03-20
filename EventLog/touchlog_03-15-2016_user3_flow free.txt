@@ -11272,7 +11272,6 @@ Portrait
 16:51:45:091
 Portrait
 [    1711.156866] EV_ABS       ABS_MT_TOUCH_MINOR   00000009            
-Service Started
 16:51:58:585
 Portrait
 [    1718.509217] EV_ABS       ABS_MT_TRACKING_ID   000001bc            

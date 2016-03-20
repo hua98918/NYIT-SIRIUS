@@ -8,8 +8,8 @@ import re
 import math
 from math import sqrt
 import os
-from _datetime import datetime
-import time
+from datetime import datetime
+
 
 
 class Line(object):
@@ -77,9 +77,14 @@ class Line(object):
             else:
                 last_dot = dot
         return lines
+    
+    def get_sec(self,td):
+       # print((td.microseconds + (td.seconds + td.days * 24 * 3600) * 10**6) / 10**6)
+        return (td.microseconds + (td.seconds + td.days * 24 * 3600) * 10**6) / 10**6
 
     def get_period(self):
-        return (datetime.strptime(self.doty.timestamp,'%H:%M:%S:%f')- datetime.strptime(self.dotx.timestamp,'%H:%M:%S:%f'))
+        #print(datetime.strptime(self.doty.timestamp,'%H:%M:%S:%f')- datetime.strptime(self.dotx.timestamp,'%H:%M:%S:%f'))
+        return self.get_sec(datetime.strptime(self.doty.timestamp,'%H:%M:%S:%f')- datetime.strptime(self.dotx.timestamp,'%H:%M:%S:%f'))
     
     def get_phone_orient_change(self):
         if self.doty.phone_orient != self.dotx.phone_orient:
@@ -112,22 +117,15 @@ class Line(object):
             return (self.doty.y - self.dotx.y)/(self.doty.x - self.dotx.x)
         
     def get_x_speed(self):
-        if self.get_period().microseconds == 0:
-            return 99999999
-        else:
-            return (self.get_x_length_of_trajectory()/(self.get_period().microseconds))
-    
+        #print(self.get_period())
+        #print(self.get_x_length_of_trajectory()/self.get_period())
+        return (self.get_x_length_of_trajectory()/self.get_period())
+
     def get_y_speed(self):
-        if self.get_period().microseconds == 0:
-            return 99999999
-        else:
-            return (self.get_y_length_of_trajectory()/(self.get_period().microseconds))
+        return (self.get_y_length_of_trajectory()/self.get_period())        
     
     def get_mid_trajectory_speed(self):
-        if self.get_period().microseconds == 0:
-            return 99999999
-        else:
-            return (self.get_distance()/(self.get_period().microseconds))
+        return (self.get_distance()/self.get_period())
         
     def get_absolute_velocity(self):    
         return math.hypot(self.get_x_speed(), self.get_y_speed())  # euclidean norm Vx^2+Vy^2
@@ -136,15 +134,16 @@ class Line(object):
         return math.atan2(self.get_y_speed(), self.get_x_speed())
     
     def get_finger_orient_change(self):               #Start with ff, then the orient is negative, start with 00, then the finger orient is positive,last minus them
-        if self.doty.finger_orient.startswith('ff'):
-            tempy = -int(self.doty.finger_orient[-2],16)
-        else:
-            tempy = int(self.doty.finger_orient[-2],16)
-        if self.dotx.finger_orient.startswith('ff'):
-            tempx = -int(self.dotx.finger_orient[-2],16)
-        else:
-            tempx = int(self.dotx.finger_orient[-2],16)
-        return tempy - tempx   
+        return self.doty.finger_orient-self.dotx.finger_orient
+        #if self.doty.finger_orient.startswith('ff'):
+        #    tempy = -int(self.doty.finger_orient[-2],16)
+        #else:
+        #    tempy = int(self.doty.finger_orient[-2],16)
+        #if self.dotx.finger_orient.startswith('ff'):
+        #    tempx = -int(self.dotx.finger_orient[-2],16)
+        #else:
+        #    tempx = int(self.dotx.finger_orient[-2],16)
+        #return tempy - tempx   
     
     #def get_acceleration(self):
     #    return ()
@@ -160,7 +159,7 @@ class Dot(object):
         self.pressure = int(pressure,16)
         self.area = self.get_area(touch_major,touch_minor)
         self.width = int(touch_major,16)
-        self.finger_orient = finger_orient
+        self.finger_orient = self.get_finger_orient(finger_orient)
         #print(self.x)
 
     def out_Dot_file_first_line(self,output):
@@ -200,7 +199,14 @@ class Dot(object):
     
     def get_area(self, major, minor):
         return math.pi*int(major,16)*int(minor,16)
-
+    
+    def get_finger_orient(self,finger_orient):
+        if finger_orient.startswith('ff'):
+            return -int(finger_orient[-2],16)
+        else:
+            return  int(finger_orient[-2],16)
+            
+            
 class Action(object):
     def __init__(self, trackingid):
         self.dot_list = []   
@@ -223,7 +229,7 @@ class Action(object):
     
         
 def parse_file(filename):
-    print ("start parsing file %s" %(filename))
+    #print ("start parsing file %s" %(filename))
     actions = []
     last_action = None
     with open(filename, mode='r') as f:
@@ -232,7 +238,7 @@ def parse_file(filename):
             check = re.compile("^(\d+\:\d+\:\d+\:\d+)\,(\d)\,(\d+\.\d+)\,(\w+)\,(\w+)\,(\w+)\,(\w+)\,(\w+)\,(\w+)\,(\w+)")
             groups = check.match(line)
             row = dict()     # dict() key-value hashmap
-            row["timestamp"]=groups.group(1).strip()  #group(0)is the whole line
+            row["timestamp"]=groups.group(1).strip()  
             row["cell_orient"]=groups.group(2).strip()
             row["time"]=groups.group(3).strip()
             row["tracking_id"]=groups.group(4)

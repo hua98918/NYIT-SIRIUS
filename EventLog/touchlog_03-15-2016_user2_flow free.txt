@@ -274,7 +274,6 @@ Portrait
 15:50:32:108
 Portrait
 [     570.050829] EV_ABS       ABS_MT_TOUCH_MINOR   00000008            
-Service Started
 15:50:43:714
 Portrait
 [     576.594011] EV_ABS       ABS_MT_TRACKING_ID   000000be            
@@ -1619,7 +1618,6 @@ Portrait
 15:51:14:677
 Portrait
 [     612.772600] EV_ABS       ABS_MT_POSITION_Y    00000301            
-Service Started
 15:52:35:674
 Portrait
 [      62.514459] EV_ABS       ABS_MT_TRACKING_ID   0000000e            

@@ -74,7 +74,7 @@ class MT_LINE(object):
     def create_row(self):
         row=dict()
         row["timestamp"] = "00:00:00:000"
-        row["cell_orient"] = "0"    ## 0 stand for Portrait/vertical；   1 stand for landscape/horizontal 
+        row["cell_orient"] = "0"
         row["time"] = "00000000"
         row["tracking_id"] = "00000000"
         row["X_coordinate"] = "00000000"
